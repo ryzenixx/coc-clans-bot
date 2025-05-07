@@ -1,0 +1,8 @@
+{
+    "name": "coc-clans-bot",
+    "type": "module",
+    "dependencies": {
+        "discord.js": "^14.11.0",
+        "node-fetch": "^3.3.2"
+    }
+}
